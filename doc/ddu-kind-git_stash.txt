@@ -1,0 +1,24 @@
+*ddu-kind-terraform_state.txt*	              Terraform state kind for ddu.vim
+
+Author: Peacock (Yoichi Takai) <contact@peacock0803sz.com>
+License: MIT license
+
+==============================================================================
+INTRODUCTION                           *ddu-kind-terraform_state-introduction*
+
+This kind provides entry type of `git stash` result and actions.
+See |ddu-source-terraform_state| for available sources.
+
+==============================================================================
+INSTALL                                     *ddu-kind-terraform_state-install*
+
+Please install |ddu| and |denops.vim| and this.
+
+https://github.com/Shougo/ddu.vim
+https://github.com/vim-denops/denops.vim
+
+==============================================================================
+ACTIONS						                          *ddu-kind-terraform_state-actions*
+
+
+vim:tw=78:sw=2:ts=2:ft=help:norl:nowrap:
